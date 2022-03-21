@@ -42,7 +42,6 @@ image_write(hbc, "my_meme.png")
 ## Meme image 
 ![](my_meme.png)
 
-Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original (e.g. an adaption of an existing meme format).
 
 My motivation is to display the two following adorable photos together.
 <!--- unordered list--->
