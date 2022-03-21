@@ -1,5 +1,8 @@
 
+# Meme by R code
 This file displays the **meme** that I created using the following R code with the *magick* package.
+
+## Source R code
 
 ```r
 library(magick)
@@ -36,8 +39,14 @@ hbc <- c(first_row, second_row) %>% image_append(stack = TRUE) %>% image_scale(6
 image_write(hbc, "my_meme.png")
 ```
 
+## Meme image 
 ![](my_meme.png)
 
 Your index.md file needs contain information about the meme you created, for example, what the motivation was, and how your meme is new/original (e.g. an adaption of an existing meme format).
 
-  
+My motivation is to display the two following adorable photos together.
+<!--- unordered list--->
+* pkq
+* bear
+
+From the meme, we can see they are quite similar to each other.
